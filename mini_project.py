@@ -13,3 +13,6 @@ else :
     print(f"Welcome, {user_name} !")
 print("weeeeeeeeeee")
 print("hahahah")
+print("1")
+print("2")
+print("3")
